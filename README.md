@@ -12,6 +12,8 @@ An enterprise-grade, interactive **Power BI Desktop Business Intelligence suite*
 
 Designed with a sleek, custom dark UI/UX theme (`#0B132B`), advanced DAX measures, dynamic Field Parameters, customized report-page tooltips, Row-Level Security (RLS), and verified sub-second visual performance optimization.
 
+![Executive Summary](assets/executive_summary.png)
+
 ---
 
 ## 🛠️ Key Technical Features & Highlights
