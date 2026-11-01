@@ -40,8 +40,8 @@ Designed with a sleek, custom dark UI/UX theme (`#0B132B`), advanced DAX measure
 ```text
 ├── Mexico_Toys_Store_Analytics.pbix   # Full Power BI Desktop Project File
 ├── README.md                          # Project Documentation
-└── assets/                            # Dashboard Screenshots & Tooltip Previews
+└── assets/                            # Dashboard Screenshots
     ├── executive_summary.png
-    ├── product_performance.png
-    ├── store_analytics.png
-    └── rls_demo.gif
+    ├── map.png
+    ├── products_performance.png
+    └── stores_overview.png
